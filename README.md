@@ -58,9 +58,3 @@
 <img align="left" src="https://profile-counter.glitch.me/Jahshiek/count.svg?"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jahshiek/Jahshiek/output/snake.svg" alt="Snake animation" />
-
-###
